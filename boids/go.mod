@@ -1,4 +1,4 @@
-module github.com/raphaelmb/boid
+module github.com/raphaelmb/go-multithread/boid
 
 go 1.19
 
