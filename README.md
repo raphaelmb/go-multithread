@@ -1,3 +1,3 @@
-# go-boids
+# go-multithread
 
 WIP
